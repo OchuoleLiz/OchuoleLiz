@@ -2,7 +2,7 @@
 - 👀 I’m interested in Backend Tracks.
 - 🌱 I’m currently learning to code using Python Language.
 - 💞️ I’m looking to collaborate on developing applications and improving my Python experience.
-- � You can reach me via ochuolelizzie@gmail.com
+- � You can reach me via lizochuole@gmail.com
 
 <!---
 OchuoleLiz/OchuoleLiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
