@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OchuoleLiz
 - 👀 I’m interested in Data Science, Fullstack Programming, and Software Programming.
-- 🌱 I’m currently learning to Data Science and Web Development using Python Language and Web development using HTML, CSS and JavaScript.
+- 🌱 I’m currently learning Data Science and Web Development using Python Language and Web development using HTML, CSS and JavaScript.
 - 💞️ I’m looking to collaborate on developing applications and improving my programming experience.
 - � You can reach me via lizochuole@gmail.com
 
